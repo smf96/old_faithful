@@ -3,6 +3,7 @@ title: "Old Faithful exploratory analysis"
 author: "Sarah Frampton"
 date: "11/11/2020"
 output:
+  pdf_document: default
   html_document: default
 ---
 
